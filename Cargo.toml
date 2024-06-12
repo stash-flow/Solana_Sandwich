@@ -1,0 +1,10 @@
+[package]
+name = "sol_bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+[dependencies]
+solana-client = "1.18.16"
+solana-sdk = "1.18.16"
+anchor-lang = "0.30.0"
